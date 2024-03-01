@@ -1,7 +1,7 @@
 <p align="center"><img src="/art/socialcard.png" alt="Social Card of Laravel Permission"></p>
 
-# Associate users with permissions and roles
-
+# Associate users with permissions and roles 
+# Attention! This package is a version of spatie/laravel-permission with minor changes to work with the official laravel mongodb package.
 ### Sponsor
 
 <table>
